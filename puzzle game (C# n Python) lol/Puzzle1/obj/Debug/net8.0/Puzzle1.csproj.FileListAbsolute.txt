@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\puzzle game (C# n Python) lol\Puzzle1\bin\Debug\net8.0\Puzzle1.exe
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\puzzle game (C# n Python) lol\Puzzle1\bin\Debug\net8.0\Puzzle1.deps.json
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\puzzle game (C# n Python) lol\Puzzle1\bin\Debug\net8.0\Puzzle1.runtimeconfig.json
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\puzzle game (C# n Python) lol\Puzzle1\bin\Debug\net8.0\Puzzle1.dll
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\puzzle game (C# n Python) lol\Puzzle1\bin\Debug\net8.0\Puzzle1.pdb
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\puzzle game (C# n Python) lol\Puzzle1\obj\Debug\net8.0\Puzzle1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\puzzle game (C# n Python) lol\Puzzle1\obj\Debug\net8.0\Puzzle1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\puzzle game (C# n Python) lol\Puzzle1\obj\Debug\net8.0\Puzzle1.AssemblyInfo.cs
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\puzzle game (C# n Python) lol\Puzzle1\obj\Debug\net8.0\Puzzle1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\puzzle game (C# n Python) lol\Puzzle1\obj\Debug\net8.0\Puzzle1.dll
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\puzzle game (C# n Python) lol\Puzzle1\obj\Debug\net8.0\refint\Puzzle1.dll
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\puzzle game (C# n Python) lol\Puzzle1\obj\Debug\net8.0\Puzzle1.pdb
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\puzzle game (C# n Python) lol\Puzzle1\obj\Debug\net8.0\Puzzle1.genruntimeconfig.cache
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\puzzle game (C# n Python) lol\Puzzle1\obj\Debug\net8.0\ref\Puzzle1.dll

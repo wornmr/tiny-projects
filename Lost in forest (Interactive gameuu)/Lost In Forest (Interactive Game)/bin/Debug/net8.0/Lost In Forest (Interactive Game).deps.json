@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lost In Forest (Interactive Game)/1.0.0": {
+        "runtime": {
+          "Lost In Forest (Interactive Game).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lost In Forest (Interactive Game)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

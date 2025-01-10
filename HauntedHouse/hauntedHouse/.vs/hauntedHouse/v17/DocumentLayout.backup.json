@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\programing stuff for fun cuz im a nerd (im not)\\tiny projects\\HauntedHouse\\hauntedHouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{090AFF3C-2B31-4871-96F4-10B550E0E002}|hauntedHouse.csproj|c:\\users\\user\\desktop\\programing stuff for fun cuz im a nerd (im not)\\tiny projects\\hauntedhouse\\hauntedhouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090AFF3C-2B31-4871-96F4-10B550E0E002}|hauntedHouse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programing stuff for fun cuz im a nerd (im not)\\tiny projects\\HauntedHouse\\hauntedHouse\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programing stuff for fun cuz im a nerd (im not)\\tiny projects\\HauntedHouse\\hauntedHouse\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv1EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:48:36.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

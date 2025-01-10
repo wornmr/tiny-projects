@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\Tic-Tac-Toe (Text-based)\Tic-Tac-Toe (Text-based)\obj\Debug\net8.0\Tic-Tac-Toe (Text-based).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\Tic-Tac-Toe (Text-based)\Tic-Tac-Toe (Text-based)\obj\Debug\net8.0\Tic-Tac-Toe (Text-based).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\Tic-Tac-Toe (Text-based)\Tic-Tac-Toe (Text-based)\obj\Debug\net8.0\Tic-Tac-Toe (Text-based).AssemblyInfo.cs
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\Tic-Tac-Toe (Text-based)\Tic-Tac-Toe (Text-based)\obj\Debug\net8.0\Tic-Tac-Toe (Text-based).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\Tic-Tac-Toe (Text-based)\Tic-Tac-Toe (Text-based)\obj\Debug\net8.0\Tic-Tac-Toe (Text-based).sourcelink.json
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\Tic-Tac-Toe (Text-based)\Tic-Tac-Toe (Text-based)\bin\Debug\net8.0\Tic-Tac-Toe (Text-based).exe
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\Tic-Tac-Toe (Text-based)\Tic-Tac-Toe (Text-based)\bin\Debug\net8.0\Tic-Tac-Toe (Text-based).deps.json
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\Tic-Tac-Toe (Text-based)\Tic-Tac-Toe (Text-based)\bin\Debug\net8.0\Tic-Tac-Toe (Text-based).runtimeconfig.json
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\Tic-Tac-Toe (Text-based)\Tic-Tac-Toe (Text-based)\bin\Debug\net8.0\Tic-Tac-Toe (Text-based).dll
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\Tic-Tac-Toe (Text-based)\Tic-Tac-Toe (Text-based)\bin\Debug\net8.0\Tic-Tac-Toe (Text-based).pdb
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\Tic-Tac-Toe (Text-based)\Tic-Tac-Toe (Text-based)\obj\Debug\net8.0\Tic-Tac-Toe (Text-based).dll
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\Tic-Tac-Toe (Text-based)\Tic-Tac-Toe (Text-based)\obj\Debug\net8.0\refint\Tic-Tac-Toe (Text-based).dll
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\Tic-Tac-Toe (Text-based)\Tic-Tac-Toe (Text-based)\obj\Debug\net8.0\Tic-Tac-Toe (Text-based).pdb
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\Tic-Tac-Toe (Text-based)\Tic-Tac-Toe (Text-based)\obj\Debug\net8.0\Tic-Tac-Toe (Text-based).genruntimeconfig.cache
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\Tic-Tac-Toe (Text-based)\Tic-Tac-Toe (Text-based)\obj\Debug\net8.0\ref\Tic-Tac-Toe (Text-based).dll

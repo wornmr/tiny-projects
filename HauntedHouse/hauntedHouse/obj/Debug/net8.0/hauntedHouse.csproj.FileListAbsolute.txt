@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\HauntedHouse\hauntedHouse\bin\Debug\net8.0\hauntedHouse.exe
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\HauntedHouse\hauntedHouse\bin\Debug\net8.0\hauntedHouse.deps.json
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\HauntedHouse\hauntedHouse\bin\Debug\net8.0\hauntedHouse.runtimeconfig.json
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\HauntedHouse\hauntedHouse\bin\Debug\net8.0\hauntedHouse.dll
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\HauntedHouse\hauntedHouse\bin\Debug\net8.0\hauntedHouse.pdb
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\HauntedHouse\hauntedHouse\obj\Debug\net8.0\hauntedHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\HauntedHouse\hauntedHouse\obj\Debug\net8.0\hauntedHouse.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\HauntedHouse\hauntedHouse\obj\Debug\net8.0\hauntedHouse.AssemblyInfo.cs
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\HauntedHouse\hauntedHouse\obj\Debug\net8.0\hauntedHouse.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\HauntedHouse\hauntedHouse\obj\Debug\net8.0\hauntedHouse.sourcelink.json
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\HauntedHouse\hauntedHouse\obj\Debug\net8.0\hauntedHouse.dll
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\HauntedHouse\hauntedHouse\obj\Debug\net8.0\refint\hauntedHouse.dll
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\HauntedHouse\hauntedHouse\obj\Debug\net8.0\hauntedHouse.pdb
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\HauntedHouse\hauntedHouse\obj\Debug\net8.0\hauntedHouse.genruntimeconfig.cache
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\HauntedHouse\hauntedHouse\obj\Debug\net8.0\ref\hauntedHouse.dll

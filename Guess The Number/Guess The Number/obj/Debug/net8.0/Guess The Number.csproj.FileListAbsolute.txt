@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\GTN1\Guess The Number\bin\Debug\net8.0\Guess The Number.exe
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\GTN1\Guess The Number\bin\Debug\net8.0\Guess The Number.deps.json
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\GTN1\Guess The Number\bin\Debug\net8.0\Guess The Number.runtimeconfig.json
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\GTN1\Guess The Number\bin\Debug\net8.0\Guess The Number.dll
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\GTN1\Guess The Number\bin\Debug\net8.0\Guess The Number.pdb
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\GTN1\Guess The Number\obj\Debug\net8.0\Guess The Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\GTN1\Guess The Number\obj\Debug\net8.0\Guess The Number.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\GTN1\Guess The Number\obj\Debug\net8.0\Guess The Number.AssemblyInfo.cs
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\GTN1\Guess The Number\obj\Debug\net8.0\Guess The Number.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\GTN1\Guess The Number\obj\Debug\net8.0\Guess The Number.sourcelink.json
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\GTN1\Guess The Number\obj\Debug\net8.0\Guess The Number.dll
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\GTN1\Guess The Number\obj\Debug\net8.0\refint\Guess The Number.dll
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\GTN1\Guess The Number\obj\Debug\net8.0\Guess The Number.pdb
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\GTN1\Guess The Number\obj\Debug\net8.0\Guess The Number.genruntimeconfig.cache
+C:\Users\User\Desktop\programing stuff for fun cuz im a nerd (im not)\tiny projects\GTN1\Guess The Number\obj\Debug\net8.0\ref\Guess The Number.dll
